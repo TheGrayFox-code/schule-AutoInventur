@@ -34,3 +34,4 @@ C:\Users\Administrator\RiderProjects\SAS-Projekt\SAS-Projekt\obj\Debug\net9.0-wi
 C:\Users\Administrator\RiderProjects\SAS-Projekt\SAS-Projekt\obj\Debug\net9.0-windows\SAS-Projekt.pdb
 C:\Users\Administrator\RiderProjects\SAS-Projekt\SAS-Projekt\obj\Debug\net9.0-windows\SAS-Projekt.genruntimeconfig.cache
 C:\Users\Administrator\RiderProjects\SAS-Projekt\SAS-Projekt\obj\Debug\net9.0-windows\ref\SAS-Projekt.dll
+C:\Users\Administrator\RiderProjects\SAS-Projekt\SAS-Projekt\obj\Debug\net9.0-windows\SAS-Projekt.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAS-Projekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bc8ecb7ec7f4202269e26e0a72c13fe3a0f95f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAS-Projekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAS-Projekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
